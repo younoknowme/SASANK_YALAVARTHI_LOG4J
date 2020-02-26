@@ -1,0 +1,10 @@
+2020-02-26 23:32:39,186(YYYY-MM-DD HH:mm:ss) INFO  SimpleInterest.class(1):15 - Input to Calculate Simple Interest
+2020-02-26 23:32:39,250(YYYY-MM-DD HH:mm:ss) INFO  SimpleInterest.class(1):16 -  what is principal Income
+2020-02-26 23:32:44,220(YYYY-MM-DD HH:mm:ss) INFO  SimpleInterest.class(1):19 - Input rateOfInterest
+2020-02-26 23:32:45,327(YYYY-MM-DD HH:mm:ss) INFO  SimpleInterest.class(1):22 - Input Number Of Years
+2020-02-26 23:32:45,878(YYYY-MM-DD HH:mm:ss) INFO  SimpleInterest.class(1):27 - The Simple Interest is =0.01
+2020-02-26 23:32:45,880(YYYY-MM-DD HH:mm:ss) INFO  CompoundInterest.class(1):13 - Input to Calculate Compound Interest
+2020-02-26 23:32:45,909(YYYY-MM-DD HH:mm:ss) INFO  CompoundInterest.class(1):14 - Input Principal Amount
+2020-02-26 23:32:46,503(YYYY-MM-DD HH:mm:ss) INFO  CompoundInterest.class(1):17 - Input Interest Rate
+2020-02-26 23:32:47,120(YYYY-MM-DD HH:mm:ss) INFO  CompoundInterest.class(1):20 - Input time period
+2020-02-26 23:32:48,158(YYYY-MM-DD HH:mm:ss) INFO  CompoundInterest.class(1):29 - The Compound Interest is = 1.01

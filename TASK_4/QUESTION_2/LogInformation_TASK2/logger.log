@@ -1,0 +1,8 @@
+2020-02-26 23:42:14,487(YYYY-MM-DD HH:mm:ss) INFO  ConstructionCost.class(1):17 - Enter the material Standard you want to use to construct the house
+2020-02-26 23:42:14,505(YYYY-MM-DD HH:mm:ss) INFO  ConstructionCost.class(1):19 - 1. Standard Material
+2. Above Standard Material
+3. High Standard Material
+4. High Standard Material and Fully Automated Home
+
+2020-02-26 23:42:21,109(YYYY-MM-DD HH:mm:ss) INFO  ConstructionCost.class(1):27 - Input the total Area
+2020-02-26 23:42:46,281(YYYY-MM-DD HH:mm:ss) INFO  ConstructionCost.class(1):48 - 118800.0
